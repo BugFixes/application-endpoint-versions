@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "application-versions-executor",
+    "name": "application-versions",
+    "region": "eu-west-2"
+  }
+}
